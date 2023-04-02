@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(16, 186, 0);
+}
+
+
+.h1 {
+    font-size: 30px;
+}
+.main {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.password {
+    background-color: rgb(78, 251, 59);
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    caret-color: transparent;
+    border: 2px solid black;
+}
+
+.password-button  {
+    background-color: rgb(78, 251, 59);
+    font-size: 30px;
+    margin: 1px;
+    border: 2px solid black;
+}
